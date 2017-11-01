@@ -1,6 +1,6 @@
 html,
 body {
-  background: #000;
+  background: #FFCCCC;
   color: #fff;
   height: 100%;
   margin: 0;
@@ -16,7 +16,4 @@ body {
 }
 img {
   display: block;
-}
-.logo {
-  fill: #fff;
 }
